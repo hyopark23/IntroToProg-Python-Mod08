@@ -1,0 +1,6 @@
+Mop, 9.99
+Vacuum, 199.99
+Broom, 10.0
+Plunger, 5.0
+Garbage Can, 45.99
+Cell Phone Charger, 10.0
